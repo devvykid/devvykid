@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! 👋</h3>
 <p align="center"><b>🧪 This is my GitHub profile. Thanks for visiting! 🧪</b></p>
-<p align="center"><b>You can also visit my website <a href="https://devvyk.id/">here</a>.</b></p>
+<p align="center"><b>🌏 You can also visit my website <a href="https://devvyk.id/">here</a>. 🌏</b></p>
 <!--
 **devvykid/devvykid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
