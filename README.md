@@ -1,3 +1,5 @@
+<p align="center"><b>⚠ Notice: This account is archived. Some repos are deleted.</b></p>
+
 <h2 align="center">Hi there! 👋</h3>
 <p align="center"><b>🧪 This is my GitHub profile. Thanks for visiting! 🧪</b></p>
 <p align="center"><b>🌏 You can also visit my website <a href="https://devvyk.id/">here</a>. (Korean) 🌏</b></p>
